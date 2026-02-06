@@ -2,3 +2,7 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.exe
+*.pdb
+x64/
+IncludeTracker/
